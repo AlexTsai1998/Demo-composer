@@ -1,0 +1,17 @@
+{
+    "name": "alex/demo",
+    "description": "demo composer",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Alex\\Demo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alex Tsai",
+            "email": "k0958103538@gmail.com"
+        }
+    ],
+    "require": {}
+}
